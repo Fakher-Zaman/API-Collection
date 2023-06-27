@@ -15,7 +15,7 @@
     {
         "id": "recIL6mJNfWObonls",
         "order": 2,
-        "title": "Bachelor`s Studies in Information Technology (BSIT Hons.)",
+        "title": "Bachelor's Studies in Information Technology (BSIT Hons.)",
         "institute": "University of the Punjab",
         "dates": "Oct 2019 - Present",
         "duties": [
@@ -32,10 +32,10 @@
         "institute": "Google and FreeCodeCamp",
         "dates": "Feb 2023 - Present",
         "duties": [
-            "Google Project Management Fundamentals Certification - Coursera (https://coursera.org/verify/WZ3RBSGHQ8SW)",
-            "Responsive Web Design Certification - FreeCodeCamp (https://freecodecamp.org/certification/fakher-zaman/responsive-web-design)",
-            "JavaScript Algorithms and Data Structures Certification - FreeCodeCamp (https://freecodecamp.org/certification/fakher-zaman/javascript-algorithms-and-data-structures",
-            "Front End Libraries Certification - FreeCodeCamp (https://freecodecamp.org/certification/fakher-zaman/front-end-development-libraries)"
+            "Google Project Management Fundamentals Certification - Coursera",
+            "Responsive Web Design Certification - FreeCodeCamp",
+            "JavaScript Algorithms and Data Structures Certification - FreeCodeCamp",
+            "Front End Libraries Certification - FreeCodeCamp"
         ],
         "company": "CERTIFICATES"
     }
