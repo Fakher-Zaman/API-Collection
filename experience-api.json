@@ -9,7 +9,8 @@
             "JavaScript Development: Implement interactive elements and dynamic functionality using JavaScript. This includes creating sliders, dropdown menus, form validations, animations, and other client-side scripting tasks.",
             "Utilize Bootstrap's extensive library of components to create visually appealing and interactive user interfaces. This involves incorporating Bootstrap's navigation bars, buttons, forms, modals, carousels, and other elements into web pages or applications."
         ],
-        "company": "INTERNSHIP"
+        "company": "INTERNSHIP",
+        "institute": "Punjab Information Technology Board"
     },
     {
         "id": "recIL6mJNfWObonls",
@@ -21,12 +22,13 @@
             "Gained knowledge of computer networks, protocols, and network security. Assisted in network setup, troubleshooting, and maintenance. Familiarity with network configuration, IP addressing, and firewall management.",
             "More Studies: Data Structures and Algorithms (C++), Object-Oriented Programming (C++), Software Engineering, Operating Systems, Computer Architecture, Web Development, and Enterprise App Development (Java)."
         ],
-        "company": "EDUCATION"
+        "company": "EDUCATION",
+        "institute": "University of the Punjab"
     },
     {
         "id": "rec61x18GVY99hQq5",
         "order": 1,
-        "title": "Google and FreeCodeCamp Certified",
+        "title": "Software Developer Certified",
         "dates": "Feb 2023 - Present",
         "duties": [
             "Google Project Management Fundamentals Certification - Coursera (https://coursera.org/verify/WZ3RBSGHQ8SW)",
@@ -34,6 +36,7 @@
             "JavaScript Algorithms and Data Structures Certification - FreeCodeCamp (https://freecodecamp.org/certification/fakher-zaman/javascript-algorithms-and-data-structures",
             "Front End Libraries Certification - FreeCodeCamp (https://freecodecamp.org/certification/fakher-zaman/front-end-development-libraries)"
         ],
-        "company": "CERTIFICATES"
+        "company": "CERTIFICATES",
+        "institute": "Google and FreeCodeCamp"
     }
 ]
