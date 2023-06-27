@@ -1,39 +1,39 @@
 [
-  {
-    "id": "recAGJfiU4CeaV0HL",
-    "order": 3,
-    "title": "Full Stack Web Developer",
-    "dates": "December 2015 - Present",
-    "duties": [
-      "Tote bag sartorial mlkshk air plant vinyl banjo lumbersexual poke leggings offal cold-pressed brunch neutra. Hammock photo booth live-edge disrupt.",
-      "Post-ironic selvage chambray sartorial freegan meditation. Chambray chartreuse kombucha meditation, man bun four dollar toast street art cloud bread live-edge heirloom.",
-      "Butcher drinking vinegar franzen authentic messenger bag copper mug food truck taxidermy. Mumblecore lomo echo park readymade iPhone migas single-origin coffee franzen cloud bread tilde vegan flexitarian."
-    ],
-    "company": "INTERNSHIP"
-  },
-  {
-    "id": "recIL6mJNfWObonls",
-    "order": 2,
-    "title": "Front-End Engineer",
-    "dates": "May 2015 - December 2015",
-    "duties": [
-      "Hashtag drinking vinegar scenester mumblecore snackwave four dollar toast, lumbersexual XOXO. Cardigan church-key pabst, biodiesel vexillologist viral squid.",
-      "Franzen af pitchfork, mumblecore try-hard kogi XOXO roof party la croix cardigan neutra retro tattooed copper mug. Meditation lomo biodiesel scenester",
-      "Fam VHS enamel pin try-hard echo park raw denim unicorn fanny pack vape authentic. Helvetica fixie church-key, small batch jianbing messenger bag scenester +1",
-      "Fam VHS enamel pin try-hard echo park raw denim unicorn fanny pack vape authentic. Helvetica fixie church-key, small batch jianbing messenger bag scenester +1"
-    ],
-    "company": "EDUCATION"
-  },
-  {
-    "id": "rec61x18GVY99hQq5",
-    "order": 1,
-    "title": "Engineering Intern",
-    "dates": "May 2014 - September 2015",
-    "duties": [
-      "I'm baby woke mumblecore stumptown enamel pin. Snackwave prism pork belly, blog vape four loko sriracha messenger bag jean shorts DIY bushwick VHS. Banjo post-ironic hella af, palo santo craft beer gluten-free.",
-      "YOLO drinking vinegar chambray pok pok selfies quinoa kinfolk pitchfork street art la croix unicorn DIY. Woke offal jianbing venmo tote bag, palo santo subway tile slow-carb post-ironic pug ugh taxidermy squid.",
-      "Pour-over glossier chambray umami 3 wolf moon. Iceland kale chips asymmetrical craft beer actually forage, biodiesel tattooed fingerstache. Pork belly lomo man braid, portland pitchfork locavore man bun prism."
-    ],
-    "company": "CERTIFICATES"
-  }
+    {
+        "id": "recAGJfiU4CeaV0HL",
+        "order": 3,
+        "title": "Front-End Web Developer",
+        "dates": "Feb 2023 - May 2023",
+        "duties": [
+            "HTML/CSS Coding: Convert the design concepts into actual web pages using HTML and CSS. Write clean, semantic, and well-structured code that adheres to web standards. Ensure cross-browser compatibility and responsiveness for different devices.",
+            "JavaScript Development: Implement interactive elements and dynamic functionality using JavaScript. This includes creating sliders, dropdown menus, form validations, animations, and other client-side scripting tasks.",
+            "Utilize Bootstrap's extensive library of components to create visually appealing and interactive user interfaces. This involves incorporating Bootstrap's navigation bars, buttons, forms, modals, carousels, and other elements into web pages or applications."
+        ],
+        "company": "INTERNSHIP"
+    },
+    {
+        "id": "recIL6mJNfWObonls",
+        "order": 2,
+        "title": "Bachelor`s Studies in Information Technology (BSIT Hons.)",
+        "dates": "Oct 2019 - Present",
+        "duties": [
+            "Assisted in designing and implementing databases, including creating tables, defining relationships, and optimizing performance. Proficient in SQL (Structured Query Language) for querying and managing databases.",
+            "Gained knowledge of computer networks, protocols, and network security. Assisted in network setup, troubleshooting, and maintenance. Familiarity with network configuration, IP addressing, and firewall management.",
+            "More Studies: Data Structures and Algorithms (C++), Object-Oriented Programming (C++), Software Engineering, Operating Systems, Computer Architecture, Web Development, and Enterprise App Development (Java)."
+        ],
+        "company": "EDUCATION"
+    },
+    {
+        "id": "rec61x18GVY99hQq5",
+        "order": 1,
+        "title": "Google and FreeCodeCamp Certified",
+        "dates": "Feb 2023 - Present",
+        "duties": [
+            "Google Project Management Fundamentals Certification - Coursera (https://coursera.org/verify/WZ3RBSGHQ8SW)",
+            "Responsive Web Design Certification - FreeCodeCamp (https://freecodecamp.org/certification/fakher-zaman/responsive-web-design)",
+            "JavaScript Algorithms and Data Structures Certification - FreeCodeCamp (https://freecodecamp.org/certification/fakher-zaman/javascript-algorithms-and-data-structures",
+            "Front End Libraries Certification - FreeCodeCamp (https://freecodecamp.org/certification/fakher-zaman/front-end-development-libraries)"
+        ],
+        "company": "CERTIFICATES"
+    }
 ]
