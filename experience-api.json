@@ -3,32 +3,33 @@
         "id": "recAGJfiU4CeaV0HL",
         "order": 3,
         "title": "Front-End Web Developer",
+        "institute": "Punjab Information Technology Board",
         "dates": "Feb 2023 - May 2023",
         "duties": [
             "HTML/CSS Coding: Convert the design concepts into actual web pages using HTML and CSS. Write clean, semantic, and well-structured code that adheres to web standards. Ensure cross-browser compatibility and responsiveness for different devices.",
             "JavaScript Development: Implement interactive elements and dynamic functionality using JavaScript. This includes creating sliders, dropdown menus, form validations, animations, and other client-side scripting tasks.",
             "Utilize Bootstrap's extensive library of components to create visually appealing and interactive user interfaces. This involves incorporating Bootstrap's navigation bars, buttons, forms, modals, carousels, and other elements into web pages or applications."
         ],
-        "company": "INTERNSHIP",
-        "institute": "Punjab Information Technology Board"
+        "company": "INTERNSHIP"    
     },
     {
         "id": "recIL6mJNfWObonls",
         "order": 2,
         "title": "Bachelor`s Studies in Information Technology (BSIT Hons.)",
+        "institute": "University of the Punjab",
         "dates": "Oct 2019 - Present",
         "duties": [
             "Assisted in designing and implementing databases, including creating tables, defining relationships, and optimizing performance. Proficient in SQL (Structured Query Language) for querying and managing databases.",
             "Gained knowledge of computer networks, protocols, and network security. Assisted in network setup, troubleshooting, and maintenance. Familiarity with network configuration, IP addressing, and firewall management.",
             "More Studies: Data Structures and Algorithms (C++), Object-Oriented Programming (C++), Software Engineering, Operating Systems, Computer Architecture, Web Development, and Enterprise App Development (Java)."
         ],
-        "company": "EDUCATION",
-        "institute": "University of the Punjab"
+        "company": "EDUCATION"
     },
     {
         "id": "rec61x18GVY99hQq5",
         "order": 1,
         "title": "Software Developer Certified",
+        "institute": "Google and FreeCodeCamp",
         "dates": "Feb 2023 - Present",
         "duties": [
             "Google Project Management Fundamentals Certification - Coursera (https://coursera.org/verify/WZ3RBSGHQ8SW)",
@@ -36,7 +37,6 @@
             "JavaScript Algorithms and Data Structures Certification - FreeCodeCamp (https://freecodecamp.org/certification/fakher-zaman/javascript-algorithms-and-data-structures",
             "Front End Libraries Certification - FreeCodeCamp (https://freecodecamp.org/certification/fakher-zaman/front-end-development-libraries)"
         ],
-        "company": "CERTIFICATES",
-        "institute": "Google and FreeCodeCamp"
+        "company": "CERTIFICATES"
     }
 ]
